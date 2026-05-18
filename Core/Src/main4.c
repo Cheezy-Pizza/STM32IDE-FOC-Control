@@ -142,7 +142,7 @@ static volatile float openLoopVq[2] = {0.2f, 0.2f};
 #define MEDIAN_SIZE             3
 #define PI_DEADBAND_A           0.05f
 #define CALIBRATION_SAMPLES     4000UL
-#define TORQUE_RAMP_RATE        0.0001f
+#define TORQUE_RAMP_RATE        0.001f
 
 
 /* ============================================================================
