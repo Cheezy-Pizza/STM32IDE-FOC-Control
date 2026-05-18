@@ -107,7 +107,7 @@ static volatile float openLoopVq[2] = {0.2f, 0.2f};
 /* ============================================================================
  * POWER STAGE PARAMETERS
  * ============================================================================ */
-#define BUS_VOLTAGE_MV          16000UL
+#define BUS_VOLTAGE_MV          20000UL
 #define AMP_GAIN                40UL
 #define SHUNT_UOHMS             1000UL
 
@@ -131,8 +131,8 @@ static volatile float openLoopVq[2] = {0.2f, 0.2f};
 /* ============================================================================
  * CURRENT LIMITS
  * ============================================================================ */
-#define MAX_CURRENT_MA          24000
-#define OCP_MULTIPLIER          2.0f
+#define MAX_CURRENT_MA          20000
+#define OCP_MULTIPLIER          1.75f
 
 
 /* ============================================================================
