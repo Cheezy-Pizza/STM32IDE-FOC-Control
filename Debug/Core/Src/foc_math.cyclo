@@ -1,0 +1,11 @@
+../Core/Src/foc_math.c:20:6:CORDIC_SinCos	3
+../Core/Src/foc_math.c:53:7:medianFilter	4
+../Core/Src/foc_math.c:79:13:clarkeTransform	1
+../Core/Src/foc_math.c:88:6:parkTransformSC	1
+../Core/Src/foc_math.c:97:13:inverseParkSC	1
+../Core/Src/foc_math.c:109:6:SVPWM	12
+../Core/Src/foc_math.c:139:7:PI_Update	14
+../Core/Src/foc_math.c:169:7:getElectricalAngle	2
+../Core/Src/foc_math.c:185:7:encoderRawElecDeg	2
+../Core/Src/foc_math.c:197:7:circular_mean_deg	2
+../Core/Src/foc_math.c:209:7:circular_diff_deg	3

@@ -1,0 +1,2 @@
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_bus.h:243:22:LL_AHB1_GRP1_EnableClock	1
+../Core/Src/cordic.c:28:6:MX_CORDIC_Init	1

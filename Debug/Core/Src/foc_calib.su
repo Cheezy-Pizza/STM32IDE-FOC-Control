@@ -1,0 +1,9 @@
+../Core/Src/foc_calib.c:43:6:foc_calib_sample	24	static
+../Core/Src/foc_calib.c:65:13:calSweepField	48	static
+../Core/Src/foc_calib.c:101:20:fitLinRegression	200	static
+../Core/Src/foc_calib.c:170:14:fitToOffsetDeg	32	static
+../Core/Src/foc_calib.c:196:13:resetFilters	24	static
+../Core/Src/foc_calib.c:219:13:processGainCal	64	static
+../Core/Src/foc_calib.c:275:16:calibrateMotorAlignmentLinReg	96	static,ignoring_inline_asm
+../Core/Src/foc_calib.c:400:13:calibrateDQOffsets	88	static
+../Core/Src/foc_calib.c:453:6:calibrateMotor	16	static,ignoring_inline_asm
